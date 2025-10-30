@@ -10,7 +10,7 @@
 4: Go to [chrome://extensions](chrome://extensions)\
 5: Turn on developer mode if you haven't already\
 6: Press the button that says "Load unpacked"\
-7: Navigate to the folder with the repo's extracted code in it and click the button you usually press to accept a folder\
+7: Navigate to the folder with the repo's extracted code in it and click the button you usually press to accept a folder
 
 ### Using the Extension
 
@@ -18,4 +18,4 @@
 2: Press the puzzle piece, click on the extension "Gimkit Code Spammer", and press the "Start" button on the popup\
 3: Select the "Game Code" box\
 4: Press and hold the "." key\
-5: Wait until it gets you into a game! It'll be a short wait during US/Canada school hours, outside of that it could take a while\
+5: Wait until it gets you into a game! It'll be a short wait during US/Canada school hours, outside of that it could take a while
